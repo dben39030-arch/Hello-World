@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../C++/.vscode"
+		}
+	],
+	"settings": {
+		"markdown.validate.enabled": true,
+		"chat.disableAIFeatures": true
+	}
+}
